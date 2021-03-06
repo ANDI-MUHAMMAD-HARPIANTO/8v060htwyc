@@ -1,5 +1,5 @@
 # The AMH News Syndicate 
-Media Source Opentech
+Media Source Open Tech
 ### Inspiration  
 MS OPEN TECH
 ### How I built it  
