@@ -11,7 +11,7 @@ MS OPEN TECH
 ### Challenges I ran into  
 ### Accomplishments that I'm proud of  
 ### What I learned  
-### What's next for Jasawan 
+### What's next for this project 
 
 ## In 2021 The AMH News Syndicate forward to continues development project NETSYNDICATE-i18n
  
