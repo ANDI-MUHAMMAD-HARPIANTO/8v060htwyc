@@ -13,5 +13,5 @@ MS OPEN TECH
 ### What I learned  
 ### What's next for this project 
 
-## In 2021 The AMH News Syndicate forward to continues development project NETSYNDICATE-i18n
+## In 2021 The AMH News Syndicate forward to continues development realated project [NETSYNDICATE-i18n](https://8v060htwyc.visualstudio.com/)
  
